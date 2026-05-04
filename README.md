@@ -1,6 +1,6 @@
 # Modified Files 
 utils_modified.py
-opponent_mt_modified.py
+opponent_mt_modified_opponent.py
 
 
 # Soccer-Twos Starter Kit
