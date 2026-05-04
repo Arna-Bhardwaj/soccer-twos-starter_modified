@@ -1,3 +1,8 @@
+# Modified Files 
+utils_modified.py
+opponent_mt_modified.py
+
+
 # Soccer-Twos Starter Kit
 
 Example training/testing scripts for the Soccer-Twos environment. This starter code is modified from the example code provided in https://github.com/bryanoliveira/soccer-twos-starter.
